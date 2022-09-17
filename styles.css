@@ -123,7 +123,7 @@ header {
 }
 
 main section{
-    animation: deBaixo .7s;
+    animation: deBaixo .7s backwards;
 }
 
 main section:nth-child(1){
